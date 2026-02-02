@@ -1,7 +1,7 @@
 # I am a data scientist
 
 Please put your first and second name here, link it to your GitHub profile, and provide the title of the paper that you aim to reproduce.
-
+- [Abhishek Verma](https://github.com/vermaabhishek42): Replication of Figure 2 from Lasser et al. (2022): Trends in Open Science Subfields from 2000 to 2020 Using the MapOSR Dataset
 * [Stephan Huber](https://github.com/hubchev): *Title of the paper*
 * [Phromphorn Phornmahachai](https://github.com/ploypmpn): *The Ongoing Evolution of US Retail a Format Tug of War*
 * [Philipp Tillmann](https://github.com/tillmannphilipp99): *The Price of Nails Since 1695: A Window into Economic Change*
